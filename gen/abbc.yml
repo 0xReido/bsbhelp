@@ -1,1 +1,425 @@
-
+traits:
+  Background:
+    values:
+    - name: Aquamarine
+      file: traits/Background/Aquamarine.png
+      chance: 200
+      active: true
+    - name: Army Green
+      file: traits/Background/Army Green.png
+      chance: 200
+      active: true
+    - name: Blue
+      file: traits/Background/Blue.png
+      chance: 200
+      active: true
+    - name: Gray
+      file: traits/Background/Gray.png
+      chance: 200
+      active: true
+    - name: New Punk Blue
+      file: traits/Background/New Punk Blue.png
+      chance: 200
+      active: true
+    - name: Orange
+      file: traits/Background/Orange.png
+      chance: 200
+      active: true
+    - name: Purple
+      file: traits/Background/Purple.png
+      chance: 200
+      active: true
+    - name: Yellow
+      file: traits/Background/Yellow.png
+      chance: 200
+      active: true
+  Clothes:
+    values:
+    - name: Baseball Jersey + Hoodie
+      file: traits/Clothes/Baseball Jersey + Hoodie.png
+      chance: 8
+      active: true
+    - name: Basketball Jersey
+      file: traits/Clothes/Basketball Jersey.png
+      chance: 20
+      active: true
+    - name: Bomber Jacket + Hoodie
+      file: traits/Clothes/Bomber Jacket + Hoodie.png
+      chance: 10
+      active: true
+    - name: Designer Button Up
+      file: traits/Clothes/Designer Button Up.png
+      chance: 20
+      active: true
+    - name: Fur Coat
+      file: traits/Clothes/Fur Coat.png
+      chance: 9
+      active: true
+    - name: High Roller Suit
+      file: traits/Clothes/High Roller Suit.png
+      chance: 15
+      active: true
+    - name: Hoodie
+      file: traits/Clothes/Hoodie.png
+      chance: 100
+      active: true
+    - name: Moto Jacket
+      file: traits/Clothes/Moto Jacket.png
+      chance: 50
+      active: true
+    - name: Overcoat + Turtleneck
+      file: traits/Clothes/Overcoat + Turtleneck.png
+      chance: 55
+      active: true
+    - name: Players Jacket
+      file: traits/Clothes/Players Jacket.png
+      chance: 80
+      active: true
+    - name: Polo Shirt
+      file: traits/Clothes/Polo Shirt.png
+      chance: 75
+      active: true
+    - name: Puffer Hoodie
+      file: traits/Clothes/Puffer Hoodie.png
+      chance: 8
+      active: true
+    - name: Puffer Jacket
+      file: traits/Clothes/Puffer Jacket.png
+      chance: 40
+      active: true
+    - name: Puffer Vest
+      file: traits/Clothes/Puffer Vest.png
+      chance: 30
+      active: true
+    - name: Quilted Jacket
+      file: traits/Clothes/Quilted Jacket.png
+      chance: 50
+      active: true
+    - name: Skate Bag + Hoodie
+      file: traits/Clothes/Skate Bag + Hoodie.png
+      chance: 8
+      active: true
+    - name: Tech Jacket
+      file: traits/Clothes/Tech Jacket.png
+      chance: 10
+      active: true
+    - name: Tee + Backpack
+      file: traits/Clothes/Tee + Backpack.png
+      chance: 80
+      active: true
+    - name: Track Jacket
+      file: traits/Clothes/Track Jacket.png
+      chance: 30
+      active: true
+    - name: Tracksuit
+      file: traits/Clothes/Tracksuit.png
+      chance: 120
+      active: true
+    - name: Turtleneck
+      file: traits/Clothes/Turtleneck.png
+      chance: 85
+      active: true
+    - name: Utility Jacket
+      file: traits/Clothes/Utility Jacket.png
+      chance: 32
+      active: true
+    - name: Zipped Puffer
+      file: traits/Clothes/Zipped Puffer.png
+      chance: 65
+      active: true
+  Eyes:
+    values:
+    - name: Angry
+      file: traits/Eyes/Angry.png
+      chance: 100
+      active: true
+    - name: Bitcoin Ballers
+      file: traits/Eyes/Bitcoin Ballers.png
+      chance: 60
+      active: true
+    - name: Bloodshot
+      file: traits/Eyes/Bloodshot.png
+      chance: 70
+      active: true
+    - name: Bored
+      file: traits/Eyes/Bored.png
+      chance: 120
+      active: true
+    - name: ETH Lasers
+      file: traits/Eyes/ETH Lasers.png
+      chance: 6
+      active: true
+    - name: Flame Shades
+      file: traits/Eyes/Flame Shades.png
+      chance: 40
+      active: true
+    - name: Geometric Shades
+      file: traits/Eyes/Geometric Shades.png
+      chance: 22
+      active: true
+    - name: Oversized
+      file: traits/Eyes/Oversized.png
+      chance: 20
+      active: true
+    - name: Plasma Vision
+      file: traits/Eyes/Plasma Vision.png
+      chance: 34
+      active: true
+    - name: Robot
+      file: traits/Eyes/Robot.png
+      chance: 60
+      active: true
+    - name: Sad
+      file: traits/Eyes/Sad.png
+      chance: 80
+      active: true
+    - name: Sleepy
+      file: traits/Eyes/Sleepy.png
+      chance: 100
+      active: true
+    - name: Sport Shades
+      file: traits/Eyes/Sport Shades.png
+      chance: 30
+      active: true
+    - name: The Don Shades
+      file: traits/Eyes/The Don Shades.png
+      chance: 50
+      active: true
+    - name: Thick Frames
+      file: traits/Eyes/Thick Frames.png
+      chance: 28
+      active: true
+    - name: Thin Shades
+      file: traits/Eyes/Thin Shades.png
+      chance: 70
+      active: true
+    - name: Undead
+      file: traits/Eyes/Undead.png
+      chance: 50
+      active: true
+    - name: Wide Eyed
+      file: traits/Eyes/Wide Eyed.png
+      chance: 60
+      active: true
+  Fur:
+    values:
+    - name: Black
+      file: traits/Fur/Black.png
+      chance: 40
+      active: true
+    - name: Blue
+      file: traits/Fur/Blue.png
+      chance: 85
+      active: true
+    - name: Brain
+      file: traits/Fur/Brain.png
+      chance: 38
+      active: true
+    - name: Dark Brown
+      file: traits/Fur/Dark Brown.png
+      chance: 125
+      active: true
+    - name: Dark Gray
+      file: traits/Fur/Dark Gray.png
+      chance: 122
+      active: true
+    - name: Green
+      file: traits/Fur/Green.png
+      chance: 65
+      active: true
+    - name: Light Brown
+      file: traits/Fur/Light Brown.png
+      chance: 111
+      active: true
+    - name: Light Gray
+      file: traits/Fur/Light Gray.png
+      chance: 115
+      active: true
+    - name: Orange
+      file: traits/Fur/Orange.png
+      chance: 73
+      active: true
+    - name: Pink
+      file: traits/Fur/Pink.png
+      chance: 89
+      active: true
+    - name: Red
+      file: traits/Fur/Red.png
+      chance: 54
+      active: true
+    - name: Alien
+      file: traits/Fur/Alien.png
+      chance: 4
+      active: true
+    - name: Bionic
+      file: traits/Fur/Bionic.png
+      chance: 15
+      active: true
+    - name: Bones
+      file: traits/Fur/Bones.png
+      chance: 12
+      active: true
+    - name: Demonic
+      file: traits/Fur/Demonic.png
+      chance: 22
+      active: true
+    - name: Leopard
+      file: traits/Fur/Leopard.png
+      chance: 27
+      active: true
+    - name: Molten
+      file: traits/Fur/Molten.png
+      chance: 14
+      active: true
+    - name: Trippy
+      file: traits/Fur/Trippy.png
+      chance: 9
+      active: true
+    - name: Chrome
+      file: traits/Fur/Chrome.png
+      chance: 8.88
+      active: true      
+  Head:
+    values:
+    - name: Flip Brim
+      file: traits/Head/Flip Brim.png
+      chance: 30
+      active: true
+    - name: ABBC Hat
+      file: traits/Head/ABBC Hat.png
+      chance: 70
+      active: true
+    - name: Army Helmet
+      file: traits/Head/Army Helmet.png
+      chance: 40
+      active: true
+    - name: Backwards Hat
+      file: traits/Head/Backwards Hat.png
+      chance: 18
+      active: true
+    - name: Backwards Bandana
+      file: traits/Head/Backwards Bandana.png
+      chance: 70
+      active: true
+    - name: Bandana
+      file: traits/Head/Bandana.png
+      chance: 85
+      active: true
+    - name: Beanie
+      file: traits/Head/Beanie.png
+      chance: 55
+      active: true
+    - name: Blonde Braids
+      file: traits/Head/Blonde Braids.png
+      chance: 42
+      active: true
+    - name: Combover Fade
+      file: traits/Head/Combover Fade.png
+      chance: 80
+      active: true
+    - name: Dreadlocks
+      file: traits/Head/Dreadlocks.png
+      chance: 69
+      active: true
+    - name: Goggles Blk
+      file: traits/Head/Goggles Blk.png
+      chance: 15
+      active: true
+    - name: Goggles Grey
+      file: traits/Head/Goggles Grey.png
+      chance: 15
+      active: true
+    - name: Goggles
+      file: traits/Head/Goggles.png
+      chance: 15
+      active: true
+    - name: Knit beanie
+      file: traits/Head/Knit beanie.png
+      chance: 38
+      active: true
+    - name: Messy Hair
+      file: traits/Head/Messy Hair.png
+      chance: 60
+      active: true
+    - name: Mohawk
+      file: traits/Head/Mohawk.png
+      chance: 80
+      active: true
+    - name: Panel Hat
+      file: traits/Head/Panel Hat.png
+      chance: 100
+      active: true
+    - name: Sakura
+      file: traits/Head/Sakura.png
+      chance: 90
+      active: true
+    - name: Sweatband
+      file: traits/Head/Sweatband.png
+      chance: 54
+      active: true
+    - name: Trooper Hat
+      file: traits/Head/Trooper Hat.png
+      chance: 22
+      active: true
+    - name: Two Tone Braids
+      file: traits/Head/Two Tone Braids.png
+      chance: 18
+      active: true
+  Mouth:
+    values:
+    - name: Bandana
+      file: traits/Mouth/Bandana.png
+      chance: 30
+      active: true
+    - name: Bored Joint
+      file: traits/Mouth/Bored Joint.png
+      chance: 60
+      active: true
+    - name: Bored Unshaven
+      file: traits/Mouth/Bored Unshaven.png
+      chance: 180
+      active: true
+    - name: Bored
+      file: traits/Mouth/Bored.png
+      chance: 250
+      active: true
+    - name: Discomfort
+      file: traits/Mouth/Discomfort.png
+      chance: 130
+      active: true
+    - name: Dumbfounded
+      file: traits/Mouth/Dumbfounded.png
+      chance: 100
+      active: true
+    - name: Grin Diamond Grill
+      file: traits/Mouth/Grin Diamond Grill.png
+      chance: 25
+      active: true
+    - name: Grin Gold Grill
+      file: traits/Mouth/Grin Gold Grill.png
+      chance: 38
+      active: true
+    - name: Grin Multicolored
+      file: traits/Mouth/Grin Multicolored.png
+      chance: 46
+      active: true
+    - name: Grin
+      file: traits/Mouth/Grin.png
+      chance: 80
+      active: true
+    - name: Phoneme Vuh
+      file: traits/Mouth/Phoneme Vuh.png
+      chance: 70
+      active: true
+    - name: Rose
+      file: traits/Mouth/Rose.png
+      chance: 90
+      active: true
+    - name: Small Grin
+      file: traits/Mouth/Small Grin.png
+      chance: 140
+      active: true
+    - name: Tongue
+      file: traits/Mouth/Tongue.png
+      chance: 78
+      active: true
